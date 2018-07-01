@@ -9,6 +9,6 @@ y = [0.00561,0.013399,0.022576,0.025677,0.031864,0.095686,0.196072,0.491475,
 
 plt.plot(x,y)
 plt.scatter(x,y)
-plt.title('The ROC curve of the result')
+plt.title('The ROC curve of the Landslide')
 
 plt.show()
